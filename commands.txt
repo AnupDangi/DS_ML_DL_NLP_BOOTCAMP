@@ -1,0 +1,31 @@
+
+//create conda environment
+
+conda create -p venv python=3.10
+
+conda activate venv/
+
+
+//use jupyter notebook using ipykernel
+
+pip install ipykernel
+
+//ways of creating commands
+1. python -m venv myenv
+- activate myenv
+- deactivate myenv
+- myenv\Scripts\activate
+- myenv\Scripts\deactivate
+
+
+2.pip install virtualenv
+virtualenv -p python3 virtual_env
+virtual_env\Scripts\activate
+deactivate
+
+2. using conda 
+conda create -p venv python==3.10
+conda activate venv/
+conda deactivate venv/
+
+
