@@ -1,3 +1,8 @@
 scikit-learn
 pandas
 numpy
+flask
+seaborn
+scikit-learn
+streamlit
+bs4
