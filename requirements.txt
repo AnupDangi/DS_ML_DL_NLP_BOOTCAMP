@@ -6,3 +6,6 @@ seaborn
 scikit-learn
 streamlit
 bs4
+tensorflow==2.15.0
+tensorboard
+matplotlib
