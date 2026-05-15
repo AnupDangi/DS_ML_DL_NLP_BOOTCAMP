@@ -99,14 +99,14 @@ Paths and entry files vary by subfolder; open the `.py` file and run the one tha
 
 ### Top-level layout
 
-| Folder | What it is |
-|--------|------------|
-| `PythonBasics/` | Python language fundamentals, data structures, pandas/numpy, SQLite, logging, threading, Streamlit/Flask samples, and `practice/` assignments. |
-| `MLCore/` | Classical ML by topic (e.g. regression, logistic regression, trees, ensembles, SVM, clustering, PCA, NLP basics). Each subfolder usually holds one or more `.ipynb` notebooks and sometimes `data/`. |
-| `Deep Learning/` | Neural networks with TensorFlow/Keras (e.g. RNN, LSTM, practicals), BERT/Transformers material, and a `project/` folder for end-to-end experiments. |
-| `DL/` | Extra bundled material (`The-Grand-Complete-Data-Science-Materials`). |
-| `requirements.txt` | Default pip dependencies for most of the repo. |
-| `commands.txt` | Quick notes on Conda/venv and Jupyter kernel setup. |
+| Folder             | What it is                                                                                                                                                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `PythonBasics/`    | Python language fundamentals, data structures, pandas/numpy, SQLite, logging, threading, Streamlit/Flask samples, and `practice/` assignments.                                                       |
+| `MLCore/`          | Classical ML by topic (e.g. regression, logistic regression, trees, ensembles, SVM, clustering, PCA, NLP basics). Each subfolder usually holds one or more `.ipynb` notebooks and sometimes `data/`. |
+| `Deep Learning/`   | Neural networks with TensorFlow/Keras (e.g. RNN, LSTM, practicals), BERT/Transformers material, and a `project/` folder for end-to-end experiments.                                                  |
+| `DL/`              | Extra bundled material (`The-Grand-Complete-Data-Science-Materials`).                                                                                                                                |
+| `requirements.txt` | Default pip dependencies for most of the repo.                                                                                                                                                       |
+| `commands.txt`     | Quick notes on Conda/venv and Jupyter kernel setup.                                                                                                                                                  |
 
 ### Suggested order for learners
 
@@ -114,6 +114,8 @@ Paths and entry files vary by subfolder; open the `.py` file and run the one tha
 2. **`MLCore/`** — pick algorithms in any order, but regression → classification → ensembles → clustering is a common path.
 3. **`Deep Learning/Practicals/`** then **SimpleRNN / LSTM / BI-RNN** as you move into sequences.
 4. **`Deep Learning/BERT`** and **`Deep Learning/Transformers`** after you are comfortable with tensors and training loops.
+5. **'Deeplearning_andrewngnotes/'** is optional extra material from Andrew Ng’s Deep Learning specialization; it is not required for the bootcamp but can be a helpful supplement.
+   Source: https://www.deeplearning.ai/
 
 ### How notebooks are organized
 
