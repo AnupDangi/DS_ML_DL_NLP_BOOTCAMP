@@ -3,7 +3,9 @@
 This repository is a **learning workspace**: Jupyter notebooks, small Python apps, and sample data for data science, classical machine learning, deep learning, and NLP. It is **not** a single installable application; you open notebooks and scripts in your editor and run them with Python.
 
 <img width="2688" height="1338" alt="image" src="https://github.com/user-attachments/assets/0735d905-16fa-4f3d-b841-0338a946efbf" />
-[link](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/)
+
+- Learn: [link](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/)
+
 ## Prerequisites
 
 - **Python** 3.9 or newer (3.10 works well with the examples here).
